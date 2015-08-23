@@ -68,4 +68,4 @@ tramp
 # cask packages
 .cask/
 
-
+.env
